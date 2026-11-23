@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: IDS/IPS system (PFE EST Khénifra)"
+git branch -M main
+git remote add origin https://github.com/Mohammed_Amine_Zari/IDS-IPS-System.git
+git push -u origin main
